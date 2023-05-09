@@ -1,1 +1,2 @@
 # Excel_Project
+I made a simple dashboard in Excel that displayed KPIs such as sales, profit, and the number of customers at McDonald's in South America. I also created a map that showed the sales per country in South America, the customer satisfaction ratings, and a line chart that showed the sales trend in millions. A line chart was chosen for one of the chart types because I wanted to do a comparison over time on data that was non-cyclical. For the other chart type, a circular area chart was chosen because I wanted to do a comparison over time on data that was cyclical.
